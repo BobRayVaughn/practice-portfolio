@@ -1,3 +1,32 @@
+/* Using the Coolors website made it really easy to find nice complementing colors.
+*/
+
 h1 {
-  
+font-family: Tahoma;
+text-align: center;
+color: #BB3925;
+font-size: 50px;
+}
+
+h2 {
+font-family: Tahoma;
+text-align: center;
+color: #7C7C7C;
+}
+
+.light-background {
+  background-color: #EEE5E9;
+}
+
+.dark-background {
+  background-color: #2B303A;
+}
+
+.wrapper {
+  width: 300px;
+  margin: auto;
+}
+
+.text-centered {
+  text-align: center;
 }
