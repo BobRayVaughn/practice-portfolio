@@ -30,3 +30,20 @@ color: #7C7C7C;
 .text-centered {
   text-align: center;
 }
+
+nav {
+  text-align: center;
+  color: #EEE5E9;
+  font-family: Tahoma;
+  font-size: 15px;
+}
+
+a {
+  font-family: Tahoma;
+  font-size: 20px;
+}
+
+a:link    { color: #EEE5E9;  }
+a:visited { color: #BB3925;   }
+a:hover   { color: blue; }
+a:active  { color: pink;  }
