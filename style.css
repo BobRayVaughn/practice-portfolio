@@ -51,7 +51,7 @@ a {
 }
 
 a:link    { color: #E7998D;  }
-a:visited { color: #7C7C7C;   }
+a:visited { color: #474747;   }
 a:hover   { color: blue; }
 a:active  { color: pink;  }
 
