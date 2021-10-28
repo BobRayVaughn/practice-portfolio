@@ -50,9 +50,9 @@ a {
   float: center;
 }
 
-a:link    { color: #7C7C7C;  }
-a:visited { color: #474747;   }
-a:hover   { color: blue; }
+a:link    { color: rgb(82, 82, 255);  }
+a:visited { color: red;   }
+a:hover   { color: blueviolet; }
 a:active  { color: rgb(253, 249, 0);  }
 
 /* Remembering I could group Selectors really helped save time, cant imagine how helpful that may be on a much larger project
